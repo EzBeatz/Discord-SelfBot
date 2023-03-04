@@ -5,7 +5,7 @@ A Discord Self Bot Template, with Streaming presence Template
 npm install discord.js-selfbot
 ```
 
-1. Edit ".env
+1. Edit .env
 ```
 TOKEN=Your Token
 ```
